@@ -98,3 +98,4 @@ num_cpus = "1.0"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 time = "0.1"
+futures-preview = "0.3.0-alpha.16"

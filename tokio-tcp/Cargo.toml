@@ -23,6 +23,7 @@ publish = false
 
 [features]
 incoming = ["futures-core-preview"]
+default = ["incoming"]
 
 [dependencies]
 tokio-io = { version = "0.2.0", path = "../tokio-io" }
